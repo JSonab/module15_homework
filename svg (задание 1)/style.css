@@ -1,0 +1,10 @@
+.hidden{
+    display: none;
+}
+
+.btn{
+    width: 30vw;
+    background-color: rgb(51, 69, 163);
+    color: rgb(236, 236, 236);
+    font-size: 20px;
+}
